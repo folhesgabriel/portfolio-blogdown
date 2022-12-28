@@ -2,8 +2,8 @@
 title = "Olá, sou Gabriel P. Folhes, seja bem vindo a meu site"
 author = "Gabriel P. Folhes"
 #copyright = "2020-2021"
-description = "Site pessoal, com portfolio,"
-profilePicture = "images/profile.jpg"
+description = "Meu site pessoal"
+profilePicture = "images/profile.png"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
