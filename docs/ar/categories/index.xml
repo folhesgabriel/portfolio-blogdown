@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on فلانة الفلانية</title>
-    <link>https://https://folhesgabriel.github.io/ar/categories/</link>
+    <link>https://folhesgabriel.github.io/portfolio-blogdown/ar/categories/</link>
     <description>Recent content in Categories on فلانة الفلانية</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://https://folhesgabriel.github.io/ar/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://folhesgabriel.github.io/portfolio-blogdown/ar/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

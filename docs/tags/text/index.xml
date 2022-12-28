@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>text on My blog</title>
-    <link>https://https://folhesgabriel.github.io/tags/text/</link>
+    <link>https://folhesgabriel.github.io/portfolio-blogdown/tags/text/</link>
     <description>Recent content in text on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://https://folhesgabriel.github.io/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://folhesgabriel.github.io/portfolio-blogdown/tags/text/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Placeholder Text</title>
-      <link>https://https://folhesgabriel.github.io/post/placeholder-text/</link>
+      <link>https://folhesgabriel.github.io/portfolio-blogdown/post/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://https://folhesgabriel.github.io/post/placeholder-text/</guid>
+      <guid>https://folhesgabriel.github.io/portfolio-blogdown/post/placeholder-text/</guid>
       
         <description>Lorem Ipsum Dolor Si Amet</description>
       
