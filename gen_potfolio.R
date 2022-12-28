@@ -2,7 +2,8 @@
 install.packages('blogdown')
 
 #1. criar blog
-blogdown::new_site('.', theme = 'lxndrblz/anatole')
+blogdown::new_site('.', theme = 'lxndrblz/anatole', netlify = F, format = "toml")
+
 
 #2. ver preview e stopar preview
 blogdown::server_site()
@@ -19,3 +20,8 @@ blogdown::stop_server()
 
 #4. salvar o site na pasta docs
 #publishDir: docs/ -> inserir no arquivo config.yaml
+
+#5. construir o site
+blogdown::build_site()
+
+
