@@ -2,7 +2,7 @@
 install.packages('blogdown')
 
 #1. criar blog
-blogdown::new_site('.', theme = 'lxndrblz/anatole', netlify = F, format = "toml")
+blogdown::new_site('.', theme = 'lxndrblz/anatole')
 
 
 #2. ver preview e stopar preview
