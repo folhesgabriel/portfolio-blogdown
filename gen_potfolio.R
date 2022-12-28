@@ -24,4 +24,6 @@ blogdown::stop_server()
 #5. construir o site
 blogdown::build_site()
 
+#6. ajustar o link no arquivo config.yaml
+#https://folhesgabriel.github.io/portfolio-blogdown/
 
