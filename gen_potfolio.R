@@ -1,0 +1,21 @@
+#script para cirar o site
+install.packages('blogdown')
+
+#1. criar blog
+blogdown::new_site('.', theme = 'lxndrblz/anatole')
+
+#2. ver preview e stopar preview
+blogdown::server_site()
+
+blogdown::stop_server()
+
+
+#o site fica dentro da pasta public
+#todo os outros arquivos sao usados para construir o que estara no public
+
+
+#3. muda ro setting de pages no githubs
+#ir em github pages e selecionar o branch master e o /docs
+
+#4. salvar o site na pasta docs
+#publishDir: docs/ -> inserir no arquivo config.yaml
